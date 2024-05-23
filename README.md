@@ -5,14 +5,14 @@ Under the guidance of @Swpanjeet S
 Our project's goal is to track the health of Loan Portfolio ,uncover trends that can guide our leading strategies ,and offer insights into important  loan-related
 metrics and how they change over time to support data driven decision making.
 
-Dashboard 1.SUMMARY
+Dashboard 1.𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
 Key Performance indicators that we tracked included the total number of loan application ,the total funded amount ,the total number received,the average intersest
 rate and the average debt-to-incomme (DTI).Furthermore ,we categories loans into "Good loan" and "Bad loan" according to particular loan status standards. In order
 to support data-driven decision making our objective is to produce an extensive grid view report that is categorized by "Loan Status" and employs a range of chart types 
 to graphically depict important loan-related metrics and trends.
 
-Dashboard2. OVERVIEW
+Dashboard2.𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖
 
 The specific charts that provide an overview are listed below:
 
