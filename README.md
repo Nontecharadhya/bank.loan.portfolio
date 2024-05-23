@@ -18,7 +18,7 @@ The specific charts that provide an overview are listed below:
 
 1.Monthly Trends (Line Chart) by issue Date.
 
-2.State-by-State Regional Analysis (Filled Map).
+2.State-by-State Regional Analysis (Column Chart).
 
 3.Analysis of Loan Term (Donot Chart).
 
@@ -26,7 +26,7 @@ The specific charts that provide an overview are listed below:
 
 5.Loan Purpose Breakdown (Bar Char).
 
-6.Home Ownership Analysis(Column Chart)
+6.Home Ownership Analysis(Donut Chart)
 
 These various chart types improved our capacity to effectively visulaized and communicated insights related to loans,enabling data-driven decision making and 
 strategies planning in our lending operations.
